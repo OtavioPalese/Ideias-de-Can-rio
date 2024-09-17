@@ -1,0 +1,31 @@
+body{
+    background-color: #BDB38E;
+}
+.resumo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.resumo-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.resumo-1 img{
+    height: 400px;
+}
+.resumo-text{
+    background-color: #837D66;
+    font-size: 17px;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 500;
+    padding: 30px;
+    margin: 40px;
+    width: 40%;
+}
+.resumo-titulo{
+    font-family: "Caesar Dressing", system-ui;
+    font-size: 120px;
+    margin-top: 80px;
+}
