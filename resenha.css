@@ -1,0 +1,20 @@
+.resenha{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.resenha-text{
+    background-color: #837D66;
+    font-size: 19px;
+    font-family: "Inknut Antiqua", serif;
+    font-weight: 500;
+    padding: 30px;
+    margin: 40px;
+    width: 55%;
+}
+.resenha-titulo{
+    font-family: "Caesar Dressing", system-ui;
+    font-size: 80px;
+    margin-top: 80px;
+}
