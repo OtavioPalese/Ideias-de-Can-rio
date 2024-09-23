@@ -27,3 +27,15 @@
 body{
     background-color: #BDB38E;
 }
+
+@media screen and (max-width: 1800px) {
+    .cabecario {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .cabecario a {
+        margin: 0
+    }
+}
+
